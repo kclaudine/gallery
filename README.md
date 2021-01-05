@@ -26,7 +26,7 @@ Run the app using this command: python3.6 manage.py runserver on the terminal.Yo
 ### Technologies Used
 
 Python 3.6
-Django
+Django 1.11
 Bootstrap
 HTML
 
