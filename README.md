@@ -37,4 +37,4 @@ Email : ckuradusenge42@gmail.com
 
 ### Licence 
 
-MIT
+MI
