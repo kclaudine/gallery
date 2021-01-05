@@ -1,4 +1,4 @@
-# gallery
+# Gallery
 This is a personal gallery application that displays your photos for others to see.
 ### Description
 The application allows users to view images according to their categories and location. The admin is the one responsible for uploading, editing and deleting images. The users can search for images according to their categories.
